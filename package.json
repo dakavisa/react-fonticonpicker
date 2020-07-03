@@ -1,6 +1,6 @@
 {
   "name": "@dakavisa/react-fonticonpicker",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A react component to show a picker element to select font icons or SVG.",
   "main": "dist/fonticonpicker.react.js",
   "directories": {
