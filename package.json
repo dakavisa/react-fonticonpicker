@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fontIconPicker/react-fonticonpicker.git"
+    "url": "git+https://github.com/dakavisa/react-fonticonpicker.git"
   },
   "keywords": [
     "react",
@@ -24,7 +24,7 @@
     "svgpicker",
     "iconpicker"
   ],
-  "author": "Swashata Ghosh <swashata4u@gmail.com> (https://swashata.me)",
+  "author": "dakavisa <dakavisa623u@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fontIconPicker/react-fonticonpicker/issues"
